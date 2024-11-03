@@ -1,12 +1,10 @@
 table{
-    border: collapse; 
+    border: solid black;
     width: 200px;
     height: 200px;
 }
 
-th, td{
-    border: 1px solid black;
-}
+
 
 #six{
     text-align: right;
@@ -15,4 +13,8 @@ th, td{
 
 #seven{
     height: 100px;
+}
+
+#negy{
+    width: 50px;
 }
