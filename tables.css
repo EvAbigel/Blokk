@@ -1,0 +1,18 @@
+table{
+    border: collapse; 
+    width: 200px;
+    height: 200px;
+}
+
+th, td{
+    border: 1px solid black;
+}
+
+#six{
+    text-align: right;
+    vertical-align: bottom;
+}
+
+#seven{
+    height: 100px;
+}
